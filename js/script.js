@@ -26,13 +26,7 @@ async function getResponce() {
         <input type="hidden" name= "vendor_code" value=${content[key].vendor_code}>
         <p class="card-text" >Заказать <input class="w-25" type="number" name="amount" value="0"></p>
         </li>
-                `
+        `
     }
 }
-//getResponce()
-
-Promise.all([
-    fetch('t.txt').then(x => x.text())
-]).then((sampleResp) => {
-    console.log(sampleResp);
-});
+getResponce()
