@@ -1,89 +1,89 @@
 [{
         "id": "1",
-        "title": "Товар 1",
+        "title": "Монстера",
         "vendor_code": "111",
         "description": "Описание 1",
         "price": 100,
-        "img": "/image/monstera.png"
+        "img": "../image/shop/monstera.png"
     },
     {
         "id": "2",
-        "title": "Товар 2",
+        "title": "Бамбук",
         "vendor_code": "222",
         "description": "Описание 2",
         "price": 200,
-        "img": "../../images/uso_002.jpg"
+        "img": "../image/shop/bamboo.jpg"
     },
     {
         "id": "3",
-        "title": "Товар 3",
+        "title": "Фикус",
         "vendor_code": "333",
         "description": "Описание 3",
         "price": 300,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_003.jpg"
+        "img": "../image/shop/ficus.jpg"
     },
     {
         "id": "4",
-        "title": "Товар 4",
+        "title": "Подсолнух",
         "vendor_code": "444e",
         "description": "Описание 4",
         "price": 400,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
+        "img": "../image/shop/sunflower.webp"
     },
     {
         "id": "5",
-        "title": "Товар 5",
+        "title": "Фиалка",
         "vendor_code": "4445e",
         "description": "Описание 6",
         "price": 400,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+        "img": "../image/shop/fialka.jpg"
     },
     {
         "id": "6",
-        "title": "Товар 6",
+        "title": "Суккулент",
         "vendor_code": "4446e",
         "description": "Описание 6",
         "price": 400,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+        "img": "../image/shop/succulent.webp"
     },
     {
         "id": "7",
-        "title": "Товар 7",
+        "title": "Ромашка",
         "vendor_code": "4447e",
         "description": "Описание 7",
         "price": 700,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+        "img": "../image/shop/chamomile.jpg"
     },
     {
         "id": "8",
-        "title": "Товар 8",
+        "title": "Гибискус",
         "vendor_code": "4448e",
         "description": "Описание 8",
         "price": 800,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_3.png"
+        "img": "../image/shop/hibiscus.jpg"
     },
     {
         "id": "9",
-        "title": "Товар 9",
+        "title": "Астра",
         "vendor_code": "444e",
         "description": "Описание 9",
         "price": 400,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+        "img": "../image/shop/aster.jpg"
     },
     {
         "id": "10",
-        "title": "Товар 10",
+        "title": "Ирисы",
         "vendor_code": "44410e",
         "description": "Описание 10",
         "price": 900,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
+        "img": "../image/shop/irise.jpg"
     },
     {
         "id": "11",
-        "title": "Товар 11",
+        "title": "Пион",
         "vendor_code": "44411e",
         "description": "Описание 1",
         "price": 1100,
-        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
+        "img": "../image/shop/peony.jpg"
     }
 ]
