@@ -3,7 +3,7 @@
         "title": "Монстера",
         "vendor_code": "111",
         "description": "Описание 1",
-        "price": 100,
+        "price": 7300,
         "img": "../image/shop/monstera.png"
     },
     {
@@ -11,7 +11,7 @@
         "title": "Бамбук",
         "vendor_code": "222",
         "description": "Описание 2",
-        "price": 200,
+        "price": 900,
         "img": "../image/shop/bamboo.jpg"
     },
     {
@@ -19,7 +19,7 @@
         "title": "Фикус",
         "vendor_code": "333",
         "description": "Описание 3",
-        "price": 300,
+        "price": 500,
         "img": "../image/shop/ficus.jpg"
     },
     {
@@ -27,7 +27,7 @@
         "title": "Подсолнух",
         "vendor_code": "444e",
         "description": "Описание 4",
-        "price": 400,
+        "price": 300,
         "img": "../image/shop/sunflower.webp"
     },
     {
@@ -43,7 +43,7 @@
         "title": "Суккулент",
         "vendor_code": "4446e",
         "description": "Описание 6",
-        "price": 400,
+        "price": 200,
         "img": "../image/shop/succulent.webp"
     },
     {
@@ -51,7 +51,7 @@
         "title": "Ромашка",
         "vendor_code": "4447e",
         "description": "Описание 7",
-        "price": 700,
+        "price": 300,
         "img": "../image/shop/chamomile.jpg"
     },
     {
@@ -59,7 +59,7 @@
         "title": "Гибискус",
         "vendor_code": "4448e",
         "description": "Описание 8",
-        "price": 800,
+        "price": 600,
         "img": "../image/shop/hibiscus.jpg"
     },
     {
@@ -75,7 +75,7 @@
         "title": "Ирисы",
         "vendor_code": "44410e",
         "description": "Описание 10",
-        "price": 900,
+        "price": 500,
         "img": "../image/shop/irise.jpg"
     },
     {
@@ -83,7 +83,7 @@
         "title": "Пион",
         "vendor_code": "44411e",
         "description": "Описание 1",
-        "price": 1100,
+        "price": 1000,
         "img": "../image/shop/peony.jpg"
     }
 ]
